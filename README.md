@@ -1,1 +1,1 @@
-# uzword
+# uzword O'zbekcha sozlar toplami
